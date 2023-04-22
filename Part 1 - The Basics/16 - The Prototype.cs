@@ -1,4 +1,3 @@
-```cs
 int pilotNumber, hunterGuess = -1;
 do
 {
@@ -23,4 +22,3 @@ while (hunterGuess != pilotNumber)
     
 }
 Console.WriteLine("You guessed the number!");
-```

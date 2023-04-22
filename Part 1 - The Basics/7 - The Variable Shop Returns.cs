@@ -1,4 +1,3 @@
-```cs
 byte byteVar = 254;
 short shortVar = 32_757;
 int intVar = 2_147_483_617;
@@ -27,4 +26,3 @@ Console.WriteLine("The value of ulongVar is: {0}", ulongVar);
 Console.WriteLine("The value of stringVar is: {0}", stringVar);
 Console.WriteLine("The value of doubleVar is: {0}", doubleVar);
 Console.WriteLine("The value of boolVar is: {0}", boolVar);
-```

@@ -1,4 +1,3 @@
-```cs
 int manticoreLocation, manticoreHealth = 10, cityHealth = 15, roundCount = 0, cityGuess;
 do 
 {
@@ -76,4 +75,3 @@ int BlastDamageCalc() {
         return (1);
     }
 }
-```

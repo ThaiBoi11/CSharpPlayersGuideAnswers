@@ -1,4 +1,3 @@
-```cs
 int[] array1 = new int[5];
 int[] array2 = new int[5];
 for (int i = 0; i < array1.Length; i++)
@@ -20,4 +19,3 @@ foreach (var item in array2)
 {
     Console.WriteLine(item);
 }
-```

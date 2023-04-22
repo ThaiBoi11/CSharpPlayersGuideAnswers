@@ -1,4 +1,3 @@
-```cs
 ChestStatus lockStatus = ChestStatus.Locked;
 string lockRequest;
 do {
@@ -49,5 +48,3 @@ enum ChestStatus
 {
     Locked, Unlocked, Closed, Open
 }
-```
-

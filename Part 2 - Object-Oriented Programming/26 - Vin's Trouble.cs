@@ -1,4 +1,3 @@
-```cs
 ArrowheadType userArrowhead = ArrowheadType.steel;
 FletchingType userFletching = FletchingType.plastic;
 int userLength, userChoice;
@@ -114,4 +113,3 @@ enum FletchingType
 {
     plastic, turkeyfeathers, goosefeathers
 }
-```

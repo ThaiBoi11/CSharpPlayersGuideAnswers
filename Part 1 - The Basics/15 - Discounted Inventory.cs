@@ -1,4 +1,3 @@
-```cs
 int answer, cost;
 string name;
 Console.WriteLine("The following items are available");
@@ -75,4 +74,3 @@ switch (answer)
 		Console.WriteLine("Apologies. We don't have that in stock right now.");
 		break;
 }
-```

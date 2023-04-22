@@ -1,4 +1,3 @@
-```cs 
 void WriteNumberUntil0(int number)
 {
     if (number != 0) {
@@ -8,4 +7,3 @@ void WriteNumberUntil0(int number)
 }
 
 WriteNumberUntil0(10);
-```

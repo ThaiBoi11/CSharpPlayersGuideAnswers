@@ -1,5 +1,3 @@
-
-```cs
 bool fire = false, electric = false;
 for (int i = 0; i < 101; i++)
 {
@@ -36,4 +34,3 @@ for (int i = 0; i < 101; i++)
         Console.WriteLine("{0}: Normal", i);
     }
 }
-```

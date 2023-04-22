@@ -1,4 +1,3 @@
-```cs
 int x, y;
 Console.Write("X position: ");
 x = Convert.ToInt32(Console.ReadLine());
@@ -49,4 +48,3 @@ else if (x > 0)
         Console.WriteLine("The enemy is to the southeast!");
     }
 }
-```

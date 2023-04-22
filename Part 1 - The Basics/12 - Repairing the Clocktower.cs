@@ -1,4 +1,3 @@
-```cs
 int tickTock;
 Console.Write("Number of ticks: ");
 tickTock = Convert.ToInt32(Console.ReadLine());
@@ -10,4 +9,3 @@ else
 {
     Console.WriteLine("Tock");
 }
-```

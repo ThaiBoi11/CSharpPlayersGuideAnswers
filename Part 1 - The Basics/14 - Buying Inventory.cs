@@ -1,4 +1,3 @@
-```cs
 int answer;
 Console.WriteLine("The following items are available");
 Console.WriteLine("1 - Rope");
@@ -37,4 +36,3 @@ switch (answer)
 		Console.WriteLine("Apologies. We don't have that in stock right now.");
 		break;
 }
-```

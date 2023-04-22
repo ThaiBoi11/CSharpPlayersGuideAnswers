@@ -1,4 +1,3 @@
-```cs
 (SoupType, SoupMain, SoupSeasoning) food = (SoupType.soup, SoupMain.potatoes, SoupSeasoning.salty); // "Default" values because apparently computers don't realise when they're in an infinite loop
 
 Console.WriteLine("What kind of food do you want?");
@@ -93,4 +92,3 @@ enum SoupSeasoning
 {
     spicy, salty, sweet
 }
-```

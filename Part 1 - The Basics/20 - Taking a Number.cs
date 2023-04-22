@@ -1,4 +1,3 @@
-```cs
 // The Four Sisters and The Duckbear w/ AskForNumber
 int chocolateEggs = AskForNumber("Enter the number of eggs: ");
 Console.WriteLine("The sisters get {0} egg(s) each and the duckbear gets {1} egg(s).", chocolateEggs / 4, chocolateEggs % 4);
@@ -21,7 +20,7 @@ Console.WriteLine("4 - Clean Water");
 Console.WriteLine("5 - Machete");
 Console.WriteLine("6 - Canoe");
 Console.WriteLine("7 - Food Supplies");
-answer = AskForNumberInRange("What item would you like to see the price of?: ", 1, 7)
+answer = AskForNumberInRange("What item would you like to see the price of?: ", 1, 7);
 switch (answer)
 {
 	case 1:
@@ -61,4 +60,3 @@ int AskForNumberInRange (string text, int min, int max)
     while (returnValue > max || returnValue < min);
     return returnValue;
 }
-```
